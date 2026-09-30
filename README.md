@@ -8,7 +8,7 @@ In this game, the player navigates through a 2D environment and delivers ice cre
 
 ## Screenshots
 
-<img width="694" height="571" alt="image" src="https://github.com/user-attachments/assets/1abaee96-b7ff-49fc-9202-0ed1e99e9b3f" />
+<img width="2840" height="1576" alt="image" src="https://github.com/user-attachments/assets/0d3daf72-9146-4d70-8874-1e01a8837e69" />
 
 <img width="2885" height="1594" alt="image" src="https://github.com/user-attachments/assets/4c4ca79f-f3c4-41ff-bef7-85561380ea82" />
 
